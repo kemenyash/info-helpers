@@ -1,0 +1,14 @@
+allow_url_fopen>checkbox
+display_errors>checkbox
+error_reporting>combobox
+log_errors>checkbox
+disable_functions>field
+include_path>field
+mail.force_extra_parameters>field
+max_execution_time>field
+max_input_time>field
+memory_limit>field
+post_max_size>field
+session.save_path>field
+short_open_tag>checkbox
+upload_max_filesize>field
