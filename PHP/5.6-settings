@@ -12,3 +12,4 @@ post_max_size>field
 session.save_path>field
 short_open_tag>checkbox
 upload_max_filesize>field
+file_uploads>checkbox
