@@ -1,0 +1,9 @@
+{
+    "server_version": 1,
+    "changelog": [
+        "<b>Налаштування</b><br/>Стартовий функціонал:<br/><p>- редагування даних адміністратора;</p><p>- функціонал оновлення платформи</p><p>- перегляд логів сервісу</p><br/><b>Додатки</b><br/>Журнал несправностей:<br/><p>- налаштування Telegram бота;</p><p>- синхронізація з MISTO через посилання</p><p>- аварійний функціонал чатів</p>",
+        "<b>Settings</b><br/>Start functionality:<br/><p>- edit administrator data;</p><p>- platform update functionality</p><p>- view service logs </p><br/><b>Appendixes</b><br/>Fault log:<br/><p>- Telegram bot settings;</p><p>- synchronization with MISTO via link</p><p>- emergency functionality chats</p>",
+        "<b>Настройки</b><br/>Стартовый функционал:<br/><p>- редактирование данных администратора;</p><p>- функционал обновления платформы</p><p>- просмотр логов сервиса </p><br/><b>Приложения</b><br/>Журнал неисправностей:<br/><p>- настройка Telegram бота;</p><p>- синхронизация с MISTO через ссылку</p><p>- аварийный функционал чатов</p>"
+    ],
+    "manifest_date": "2024-03-11T12:34:56.789"
+}
